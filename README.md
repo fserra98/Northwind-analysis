@@ -1,5 +1,4 @@
 # Northwind Database Analysis
-
 This project analyzes the Northwind sales database using Python and SQL.  
 The goal is to extract business insights such as category performance, demand over time, revenue by country, and top employee results.
 
@@ -10,7 +9,6 @@ The goal is to extract business insights such as category performance, demand ov
 - Identification of the best-performing employee  
 
 ## How to Run
-
 1. Download this repository.  
 2. Place `Northwind.db` in the same folder as the script or notebook.  
 3. Open the file in Google Colab or Jupyter Notebook.  
