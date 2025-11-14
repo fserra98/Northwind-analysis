@@ -1,6 +1,6 @@
 # Northwind Database Analysis
 This project analyzes the Northwind sales database using Python and SQL.  
-The goal is to extract business insights such as category performance, demand over time, revenue by country, and top employee results.
+The goal is to extract business insights such as category performance, demand over time, revenue by country and top employee results.
 
 ## Main Analyses
 - Revenue by product category  
